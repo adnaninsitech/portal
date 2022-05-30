@@ -1,0 +1,10 @@
+.crop_preview {
+	background:#e1e1e1;
+	padding:3px;
+	margin-top:30px;
+	overflow:hidden;
+	
+}
+.crop_preview img{
+	width:100%;
+}
